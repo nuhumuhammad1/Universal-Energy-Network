@@ -7,3 +7,5 @@ P
  contracts/energy-portal-nft.clar,0/c/0cd2936e4bdaf28861dd90fe1dfc24d21d9f7f6c
 ]
 -contracts/multiversal-energy-marketplace.clar,0/1/015b864e8593eede25e66534ce9c1d78939a0eca
+\
+,contracts/universal-constant-simulation.clar,4/a/4ac128de0e51c2e46c0aa37d8aa19bcd90690c64
