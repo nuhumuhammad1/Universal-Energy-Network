@@ -5,3 +5,5 @@ X
 (contracts/energy-transfer-agreement.clar,1/4/14cd3a4975f37bce0e2b1abf75db8a725ab010ee
 P
  contracts/energy-portal-nft.clar,0/c/0cd2936e4bdaf28861dd90fe1dfc24d21d9f7f6c
+]
+-contracts/multiversal-energy-marketplace.clar,0/1/015b864e8593eede25e66534ce9c1d78939a0eca

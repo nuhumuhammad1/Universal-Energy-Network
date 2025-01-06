@@ -14,6 +14,12 @@ epoch = 2.5
 path = 'contracts/energy-transfer-agreement.clar'
 clarity_version = 2
 epoch = 2.5
+
+[contracts.multiversal-energy-marketplace]
+path = 'contracts/multiversal-energy-marketplace.clar'
+clarity_version = 2
+epoch = 2.5
+
 [repl.analysis]
 passes = ['check_checker']
 
